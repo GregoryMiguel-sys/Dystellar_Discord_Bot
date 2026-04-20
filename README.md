@@ -1,12 +1,12 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-En este bot, se encuentran funcionalidades como las siguientes :
+ESP = En este bot, se encuentran funcionalidades como las siguientes :
 
 Creación y manipulación de tickets, manejo de embeds, sistema de estadísticas, sistema de verificación y vinculación y mucho más.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In this bot, you can find functionalities like :
+ENG = In this bot, you can find functionalities like :
 
 Creation and ticket manipulation, embed management, statistics system, vinculation and verification system and a lot more.
 
